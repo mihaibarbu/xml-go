@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/m29h/xml"
+	"github.com/mihaibarbu/xml-go"
 )
 
 type Animal int
